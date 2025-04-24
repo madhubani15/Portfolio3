@@ -62,3 +62,4 @@ function Projects() {
     </Container>
   );
 }
+export default Projects;
