@@ -40,7 +40,11 @@ function Home2() {
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src="https://drive.google.com/uc?export=download&id=11Fm7gjayoZ6HXxmkQU4gH67rNf1BGJ-a" className="img-fluid" alt="avatar" />
+              <img
+  src="https://drive.google.com/uc?id=11Fm7gjayoZ6HXxmkQU4gH67rNf1BGJ-a"
+  className="img-fluid"
+  alt="avatar"
+/>
             </Tilt>
           </Col>
         </Row>
