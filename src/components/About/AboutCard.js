@@ -13,9 +13,9 @@ function AboutCard() {
             <br />
             I am a passionate Computer Science & Engineering student at Lovely Professional University, specializing in Python, Machine Learning, and Automation.
             <br />
-              Growing up in Indian Air Force stations, I developed adaptability, discipline, and resilience. /I’ve won numerous Olympiads, competitions, and actively led school events, shaping my leadership and teamwork skills.
+              Growing up in Indian Air Force stations, I developed adaptability, discipline, and resilience. I’ve won numerous Olympiads, competitions, and actively led school events, shaping my leadership and teamwork skills.
             <br />
-            I am currently pursuing my B./Tech in Computer Science and Engineering from Lovely Professional University.
+            I am currently pursuing my B.Tech in Computer Science and Engineering from Lovely Professional University.
             <br />
             <br />
               I'm committed to bridging academia and industry to drive innovation. My journey reflects a blend of technical depth, creativity, and a passion for impact. With a focus on AI and automation, I aim to create solutions that shape the future meaningfully.
