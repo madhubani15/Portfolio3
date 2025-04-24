@@ -61,9 +61,6 @@ function Projects() {
          
 
           
-            />
-          </Col>
-        </Row>
       </Container>
     </Container>
   );
