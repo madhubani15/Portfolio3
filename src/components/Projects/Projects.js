@@ -57,13 +57,8 @@ function Projects() {
               ghLink="https://github.com/madhubani15/Spaceship-Titanic/tree/main"
             />
           </Col>
-
-         
-
-          
+        </Row> {/* ✅ this was missing! */}
       </Container>
     </Container>
   );
 }
-
-export default Projects;
