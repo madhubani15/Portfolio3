@@ -89,7 +89,7 @@ function NavBar() {
                 onClick={() => updateExpanded(false)}
               
               >
-                <ImBlog style={{ marginBottom: "2px" }} /> Blogs
+                <ImBlog style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
             </Nav.Item>
 
