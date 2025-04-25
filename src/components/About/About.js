@@ -4,6 +4,7 @@ import Particle from "../Particle";
 
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
+import EducationCard from "./EducationCard";
 import Certificates from "./Certificates";
 import laptopImg from "../../Assets/about.png";
 
@@ -40,7 +41,27 @@ function About() {
         </h1>
 
         <Techstack />
+              
 
+        <h1 className="project-heading">
+          My <strong className="purple">Education</strong>
+        </h1>
+
+        <EducationCard
+          school="Lovely Professional University - Bachelor's degree, Computer Science Engineering"
+          duration="Sep 2022 - Jun 2026"
+        />
+
+        <EducationCard
+          school="Namo Rims Junior College"
+          duration="May 2020 – Mar 2021"
+        />
+            
+        <EducationCard
+          school="Kendriya Vidyalaya Lohegaon Pune"
+          duration="Apr 2018 – Mar 2019"
+        />
+              
         <Certificates />
        
         
