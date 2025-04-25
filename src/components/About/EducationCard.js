@@ -1,20 +1,17 @@
 import React from "react";
-import Card from "react-bootstrap/Card";
-import { FaRegCircleUser } from "react-icons/fa6";
+import { Card } from "react-bootstrap";
+import { FaSchool } from "react-icons/fa";
 
-function EducationCard({ institute, duration, skills }) {
+function EducationCard({ school, duration }) {
   return (
-    <Card className="education-card mb-3">
-      <Card.Body className="d-flex">
-        <div className="me-3 icon-col">
-          <FaRegCircleUser size={40} className="text-muted" />
+    <Card className="education-card-view">
+      <Card.Body className="d-flex align-items-center">
+        <div className="me-3">
+          <FaSchool size={32} color="#6c63ff" />
         </div>
         <div>
-          <Card.Title className="mb-1">{institute}</Card.Title>
-          <Card.Subtitle className="mb-2 text-muted">{duration}</Card.Subtitle>
-          <Card.Text>
-            <strong>Skills:</strong> {skills.join(" · ")}
-          </Card.Text>
+          <h5 className="mb-1"><strong>{school}</strong></h5>
+          <small>{duration}</small>
         </div>
       </Card.Body>
     </Card>
