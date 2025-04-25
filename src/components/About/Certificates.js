@@ -24,7 +24,7 @@ function Certificates() {
           <CertificateCard
             imgPath={cert1}
             title="Machine Learning & AI - Board Inifnity"
-            link="file:///C:/Users/hp/Downloads/BI-20240719-5959296%20(1).pdf"
+            link="https://drive.google.com/file/d/1y1ae2L8C_e8Pb__gW6p1sWYS55ZZAjwo/view?usp=sharing"
           />
         </Col>
 
