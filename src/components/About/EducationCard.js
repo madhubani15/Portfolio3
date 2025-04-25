@@ -10,8 +10,8 @@ function EducationCard({ school, duration }) {
           <FaSchool size={32} color="#c770f0" />
         </div>
         <div>
-          <h5 className="mb-1"><strong>{school}</strong></h5>
-          <small>{duration}</small>
+          <h5 className="mb-1" style={{ color: "white" }}>{school}</h5>
+          <small style={{ color: "white" }}>{duration}</small>
         </div>
       </Card.Body>
     </Card>
