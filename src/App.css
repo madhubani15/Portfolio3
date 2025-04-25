@@ -54,6 +54,9 @@
 .education-card-view svg {
   color: #c770f0 !important;
 }
+.text-purple {
+  color: #c770f0 !important;
+}
 
 @keyframes App-logo-spin {
   from {
