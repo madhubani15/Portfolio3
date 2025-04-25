@@ -43,27 +43,21 @@ function About() {
         <Techstack />
               
 
-        <h1 className="project-heading">
-          My <strong className="purple">Education</strong>
-        </h1>
-
         <Row style={{ justifyContent: "center", paddingBottom: "20px" }}>
-          <Col md={8}>
-            <EducationCard
-              school="Lovely Professional University - Bachelor's degree, Computer Science Engineering"
+         <Col md={8}>
+          <EducationCard
+            school="Lovely Professional University - Bachelor's degree, Computer Science Engineering"
               duration="Sep 2022 - Jun 2026"
-            />
-
-            <EducationCard
-              school="Namo Rims Junior College"
-              duration="May 2020 – Mar 2021"
-            />
-
-            <EducationCard
-              school="Kendriya Vidyalaya Lohegaon Pune"
-              duration="Apr 2018 – Mar 2019"
-            />
-          </Col>
+          />
+          <EducationCard
+            school="Namo Rims Junior College"
+            duration="May 2020 – Mar 2021"
+          />
+          <EducationCard
+            school="Kendriya Vidyalaya Lohegaon Pune"
+            duration="Apr 2018 – Mar 2019"
+          />
+         </Col>
         </Row>
         
               
