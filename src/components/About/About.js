@@ -40,6 +40,7 @@ function About() {
 
         <Techstack />
 
+        <Certificates />
        
         
 
