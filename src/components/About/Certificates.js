@@ -3,12 +3,12 @@ import { Container, Row, Col } from "react-bootstrap";
 import CertificateCard from "./CertificateCard";
 
 // Import your certificate images
-import cert1 from "../../Assets/Certificates/BI-20240719-5959296 (1)_page-0001.jpg";
-import cert2 from "../../Assets/Certificates/cert2.jpeg";
-import cert3 from "../../Assets/Certificates/cert3.jpeg";
-import cert4 from "../../Assets/Certificates/cert4.jpeg";
-import cert5 from "../../Assets/Certificates/cert5.jpg";
-import cert6 from "../../Assets/Certificates/cert6.jpeg";
+import cert1 from "../../Assets/BI-20240719-5959296 (1)_page-0001.jpg";
+import cert2 from "../../Assets/cert2.jpeg";
+import cert3 from "../../Assets/cert3.jpeg";
+import cert4 from "../../Assets/cert4.jpeg";
+import cert5 from "../../Assets/cert5.jpg";
+import cert6 from "../../Assets/cert6.jpeg";
 
 function Certificates() {
   return (
