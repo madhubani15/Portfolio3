@@ -4,6 +4,7 @@ import Particle from "../Particle";
 
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
+import Certificates from "./Certificates";
 import laptopImg from "../../Assets/about.png";
 
 
