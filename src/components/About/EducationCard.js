@@ -7,11 +7,11 @@ function EducationCard({ school, duration }) {
     <Card className="education-card-view">
       <Card.Body className="d-flex align-items-center">
         <div className="me-3">
-          <FaSchool size={32} color="#c770f0" />
+          <FaSchool size={32} className="text-purple" />
         </div>
         <div>
-          <h5 className="mb-1" style={{ color: "white" }}>{school}</h5>
-          <small style={{ color: "white" }}>{duration}</small>
+          <Card.Title className="mb-1">{school}</Card.Title>
+          <Card.Text className="text-muted">{duration}</Card.Text>
         </div>
       </Card.Body>
     </Card>
