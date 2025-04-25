@@ -45,6 +45,11 @@
   box-shadow: 0 0 25px rgba(199, 112, 240, 0.4);
 }
 
+.education-card-view:hover svg {
+  filter: drop-shadow(0 0 6px #c770f0aa);
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
